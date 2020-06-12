@@ -26,4 +26,4 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: yarn
     - run: yarn build
-    - run: GIT_USER=leopolddinet USE_SSH=true yarn deploy
+    - run: gh-pages -d build
