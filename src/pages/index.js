@@ -18,7 +18,7 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>amelioration continue</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
