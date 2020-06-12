@@ -16,6 +16,9 @@
     "react-dom": "^16.8.4",
     "gh-pages": "^3.0.0"
   },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
