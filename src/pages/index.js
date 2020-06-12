@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <a href="/blog/welcome">Coucou</>,
+    title: <a href="/blog/welcome">Coucou</a>,
     imageUrl: 'img/logo-ltdi-jpeg.jpg',
     description: (
       <>
