@@ -11,16 +11,16 @@ module.exports = {
       title: 'My Site',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo LDTI.jpg',
       },
       links: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'Activités/',
+          activeBasePath: 'Activités',
+          label: 'Activités',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'Réalisations', label: 'Réalisations', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -32,15 +32,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Activités',
           items: [
             {
               label: 'Style Guide',
-              to: 'docs/',
+              to: 'Activités/',
             },
             {
               label: 'Second Doc',
-              to: 'docs/doc2/',
+              to: 'Activités/doc2/',
             },
           ],
         },
@@ -65,8 +65,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Réalisations',
+              to: 'Réalisations',
             },
             {
               label: 'GitHub',
