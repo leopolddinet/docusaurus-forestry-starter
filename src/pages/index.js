@@ -30,7 +30,7 @@ const features = [
     ),
   },
   {
-    title: <>amelioration continue</>,
+    title: <>Amelioration continue</>,
     imageUrl: 'img/logo-amelioration-continue.jpg',
     description: (
       <>
