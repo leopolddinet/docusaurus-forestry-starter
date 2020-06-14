@@ -24,8 +24,8 @@ const features = [
     description: (
       <>
         Vous avez validé votre conception, votre produit, 
-    nous proposons de vous crééer vos dossiers techniques 
-    afin de vous liberer de cette tache parfois longue et fastidieuse.
+    nous proposons de vous créer vos dossiers techniques 
+    afin de vous libérer de cette tache parfois longue et fastidieuse.
       </>
     ),
   },
@@ -34,7 +34,7 @@ const features = [
     imageUrl: 'img/logo-amelioration-continue.jpg',
     description: (
       <>
-        Nous vous accompagnons tout au long du projet dans une demarche d'amelioration continue, 
+        Nous vous accompagnons tout au long du projet dans une demarche d'amélioration continue, 
     nous vous proposons de vous créer vos trames personnalisées et adaptées à votre besoin.
       </>
     ),
