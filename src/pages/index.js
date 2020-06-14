@@ -19,8 +19,8 @@ const features = [
     ),
   },
   {
-    title: <>Création de vos dossiers technique</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Création de vos dossiers techniques</>,
+    imageUrl: 'img/dossier technique.jpg',
     description: (
       <>
         Vous avez validé votre produit, 
