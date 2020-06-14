@@ -30,7 +30,7 @@ const features = [
   },
   {
     title: <>amelioration continue</>,
-    imageUrl: 'logo amelioration continue',
+    imageUrl: 'logo amelioration continue.jpg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
