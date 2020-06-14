@@ -1,7 +1,7 @@
 ---
 id: Création des dossiers techniques
 title: Création des dossiers techniques
-author: Endilie Yacop Sucipto
+author: ''
 author_title: ''
 author_url: ''
 author_image_url: ''
