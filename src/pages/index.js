@@ -29,8 +29,8 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>amelioration continue</>,
+    imageUrl: 'logo amelioration continue',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
