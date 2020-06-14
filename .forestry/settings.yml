@@ -21,7 +21,7 @@ sections:
   label: Blog
   create: documents
   match: "*.md"
-upload_dir: C:\Users\deleo11\Desktop\Nouveau dossier
+upload_dir: C:\00. LDTI - LEO\domaine internet + boite mail\ste web
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
