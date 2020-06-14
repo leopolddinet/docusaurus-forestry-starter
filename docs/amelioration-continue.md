@@ -1,5 +1,5 @@
 ---
-id: Amélioration continue
+id: doc2
 title: Amélioration continue
 sidebar_label: ''
 
