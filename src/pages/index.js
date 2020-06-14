@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <a href="/blog/welcome">Conception et gestion de projets</a>,
-    imageUrl: 'img/logo conception.jpg',
+    imageUrl: 'img/logo-conception.jpg',
     description: (
       <>
        Nous réalisons à partir de votre cahier des charges les produits qu'il vous faut,
@@ -20,7 +20,7 @@ const features = [
   },
   {
     title: <>Création de vos dossiers techniques</>,
-    imageUrl: 'img/logo dossier technique.jpg',
+    imageUrl: 'img/logo-dossier-technique.jpg',
     description: (
       <>
         Vous avez validé votre conception, votre produit, 
@@ -31,7 +31,7 @@ const features = [
   },
   {
     title: <>amelioration continue</>,
-    imageUrl: 'img/logo amelioration continue.jpg',
+    imageUrl: 'img/logo-amelioration-continue.jpg',
     description: (
       <>
         Nous vous accompagnons tout au long du projet dans une demarche d'amelioration continue, 
