@@ -1,6 +1,8 @@
 ---
-id: réalisation 3
-title: réalisation 3
+id: Prestations annexes
+title: Prestations annexes
 
 ---
-en cours
+Nous vous proposons plusieurs prestations autour de la conception et du dossier technique
+
+* Réalisation de rendu réalistes pour vos brochures, vos notices, etc...
