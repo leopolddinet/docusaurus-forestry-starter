@@ -15,12 +15,12 @@ module.exports = {
       },
       links: [
         {
-          to: 'Activités/',
-          activeBasePath: 'Activités',
-          label: 'Activités',
+          to: 'Docs/',
+          activeBasePath: 'Docs',
+          label: 'Docs',
           position: 'left',
         },
-        {to: 'Réalisations', label: 'Réalisations', position: 'left'},
+        {to: 'blog', label: 'blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -32,15 +32,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Activités',
+          title: 'Docs',
           items: [
             {
               label: 'Style Guide',
-              to: 'Activités/',
+              to: 'Docs/',
             },
             {
               label: 'Second Doc',
-              to: 'Activités/doc2/',
+              to: 'Docs/doc2/',
             },
           ],
         },
@@ -65,8 +65,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Réalisations',
-              to: 'Réalisations',
+              label: 'blog',
+              to: 'blog',
             },
             {
               label: 'GitHub',
@@ -75,7 +75,8 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().LDTI
+      07 82 50 87 95 - leopold.dinet@ldti.fr`,
     },
   },
   presets: [
