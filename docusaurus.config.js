@@ -49,8 +49,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date()}. LDTI 
-      07 82 50 87 95 - leopold.dinet@ldti.fr`,
+      copyright: `Copyright © ${new Date()}. LDTI <br/>07 82 50 87 95 - leopold.dinet@ldti.fr`,
     },
   },
   presets: [
