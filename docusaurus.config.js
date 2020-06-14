@@ -48,16 +48,14 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              .,
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'linkedin',
+              href: 'https://www.linkedin.com/home/?originalSubdomain=fr',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              .,
             },
           ],
         },
@@ -89,7 +87,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://www.linkedin.com/home/?originalSubdomain=fr',
         },
         blog: {
           showReadingTime: true,
