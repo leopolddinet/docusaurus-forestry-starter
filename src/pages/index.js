@@ -8,12 +8,13 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <a href="/blog/welcome">Coucou 2</a>,
+    title: <a href="/blog/welcome">Conception et gestion de projets</a>,
     imageUrl: 'img/logo-ltdi-jpeg.jpg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Nous réalisons à partir de votre cahier des charges les produits qu'il vous faut,
+    nous vous apporterons tout au long du projetnotre expertise 
+    et une gestion de projet adequate a votre activité.
       </>
     ),
   },
