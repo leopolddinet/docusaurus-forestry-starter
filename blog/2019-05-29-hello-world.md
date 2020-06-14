@@ -1,16 +1,23 @@
 ---
-id: hello-world
-title: LDTI
+id: Création des dossiers techniques
+title: Création des dossiers techniques
 author: Endilie Yacop Sucipto
-author_title: Maintainer of Docusaurus
-author_url: https://github.com/endiliey
-author_image_url: https://avatars1.githubusercontent.com/u/17883920?s=460&v=4
+author_title: ''
+author_url: ''
+author_image_url: ''
 tags:
 - hello
 - docusaurus
 
 ---
-Welcome to this blog. This blog is created with [**Docusaurus 2 alpha**](https://v2.docusaurus.io/).
+Nous vous roposons de réaliser vos dossiers techniques sur mesure adapté à votre activité:
+
+* reconstruction de vos conceptions, intégration des pièces du commerce en vue d'une industrialisation
+* nomenclature complète du projet
+* dossiers de plans de détails et d'ensemble
+* Éclatés techniques ( bullage et nomenclature sur les plans)
+* possibilité de rédiger vos gammes et instructions de montage
+* autres prestations sur demande possibles
 
 <!--truncate-->
 
