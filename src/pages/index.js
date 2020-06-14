@@ -31,7 +31,7 @@ const features = [
   },
   {
     title: <>amelioration continue</>,
-    imageUrl: 'logo amelioration continue.jpg',
+    imageUrl: 'img/logo amelioration continue.jpg',
     description: (
       <>
         Nous vous acompagnons tout au long du projet dans une demarche d'amelioration continue, 
