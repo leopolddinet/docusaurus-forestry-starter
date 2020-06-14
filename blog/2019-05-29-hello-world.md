@@ -8,7 +8,7 @@ author_image_url: ''
 tags: []
 
 ---
-Nous vous proposons de réaliser vos dossiers techniques sur mesure adapté à votre activité:
+Nous vous réalisons vos dossiers techniques sur mesure adapté à votre activité:
 
 * reconstruction de vos conceptions, intégration des pièces du commerce en vue d'une industrialisation.
 * nomenclature complète du projet.
