@@ -1,6 +1,6 @@
 module.exports = {
   title: 'LDTI',
-  tagline: 'The tagline of my site',
+  tagline: '-LDTI-',
   url: 'https://ldti.fr',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
