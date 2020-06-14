@@ -11,14 +11,14 @@ sections:
   match: "**/*"
 - type: directory
   path: docs
-  label: Docs
+  label: Activités
   create: documents
   match: "*.md"
   templates:
   - page
 - type: directory
   path: blog
-  label: Blog
+  label: Réalisations
   create: documents
   match: "*.md"
 upload_dir: ''
