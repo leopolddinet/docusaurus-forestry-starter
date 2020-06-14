@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <a href="/blog/welcome">Conception et gestion de projets</a>,
+    title: <>Conception et gestion de projets</>,
     imageUrl: 'img/logo-conception.jpg',
     description: (
       <>
