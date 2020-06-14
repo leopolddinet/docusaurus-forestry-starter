@@ -19,12 +19,13 @@ const features = [
     ),
   },
   {
-    title: <>amelioration continue</>,
+    title: <>Création de vos dossiers technique</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Vous avez validé votre produit, 
+    nous proposons de vous crééer vos dossiers techniques 
+    afin de vous liberer de cette tache parfois longue et fastidieuse.
       </>
     ),
   },
@@ -33,8 +34,8 @@ const features = [
     imageUrl: 'logo amelioration continue.jpg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Nous vous acompagnons tout au long du projet dans une demarche d'amelioration continue, 
+    nous vous proposons de vous créer vos trames personnalisées adapté à votre besoin.
       </>
     ),
   },
