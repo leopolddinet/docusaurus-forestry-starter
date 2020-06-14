@@ -5,12 +5,10 @@ author: Endilie Yacop Sucipto
 author_title: ''
 author_url: ''
 author_image_url: ''
-tags:
-- hello
-- docusaurus
+tags: []
 
 ---
-Nous vous roposons de réaliser vos dossiers techniques sur mesure adapté à votre activité:
+Nous vous proposons de réaliser vos dossiers techniques sur mesure adapté à votre activité:
 
 * reconstruction de vos conceptions, intégration des pièces du commerce en vue d'une industrialisation
 * nomenclature complète du projet
