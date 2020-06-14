@@ -1,5 +1,5 @@
 ---
-id: Création des dossiers techniques
+id: mdx
 title: Création des dossiers techniques
 
 ---

@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'LDTI',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -8,10 +8,10 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'LDTI',
+      title: '',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo LDTI.jpg',
+        alt: 'logo LDTI',
+        src: 'img/logoLTDI.jpg',
       },
       links: [
         {
@@ -45,21 +45,6 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              .,
-            },
-            {
-              label: 'linkedin',
-              href: 'https://www.linkedin.com/home/?originalSubdomain=fr',
-            },
-            {
-              .,
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
@@ -73,7 +58,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().LDTI
+      copyright: `Copyright © ${new Date()}. LDTI 
       07 82 50 87 95 - leopold.dinet@ldti.fr`,
     },
   },
