@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Réalisations', position: 'left'},
         {
-          href: 'https://www.linkedin.com/feed/',
+          href: 'https://www.linkedin.com/in/soci%C3%A9t%C3%A9-ldti-390aa71aa/',
           label: 'LinkedIn',
           position: 'right',
         },
@@ -44,7 +44,7 @@ module.exports = {
             },
           {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/feed/',
+              href: 'https://www.linkedin.com/in/soci%C3%A9t%C3%A9-ldti-390aa71aa/',
             },
           ],
         },
