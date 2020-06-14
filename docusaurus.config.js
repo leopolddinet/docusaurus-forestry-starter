@@ -1,11 +1,11 @@
 module.exports = {
   title: 'LDTI',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ldti.fr',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'LDTI', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '',
@@ -17,13 +17,13 @@ module.exports = {
         {
           to: 'Docs/',
           activeBasePath: 'Docs',
-          label: 'Docs',
+          label: 'Activités',
           position: 'left',
         },
-        {to: 'blog', label: 'blog', position: 'left'},
+        {to: 'blog', label: 'Réalisations', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://www.linkedin.com/feed/',
+          label: 'LinkedIn',
           position: 'right',
         },
       ],
@@ -32,28 +32,19 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'Docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'Docs/doc2/',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
-              label: 'blog',
+              label: 'Réalisations',
               to: 'blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/leopolddinet',
+            },
+          {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/feed/',
             },
           ],
         },
@@ -70,15 +61,9 @@ module.exports = {
           // It is recommended to set document id as docs home page (`docs/` path).
           homePageId: 'doc1',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://www.linkedin.com/home/?originalSubdomain=fr',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
