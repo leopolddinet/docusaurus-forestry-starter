@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <a href="/blog/welcome">Conception et gestion de projets</a>,
-    imageUrl: 'img/logo-ltdi-jpeg.jpg',
+    imageUrl: 'img/logo conception.jpg',
     description: (
       <>
        Nous réalisons à partir de votre cahier des charges les produits qu'il vous faut,
@@ -20,10 +20,10 @@ const features = [
   },
   {
     title: <>Création de vos dossiers techniques</>,
-    imageUrl: 'img/dossier technique.jpg',
+    imageUrl: 'img/logo dossier technique.jpg',
     description: (
       <>
-        Vous avez validé votre produit, 
+        Vous avez validé votre conception, votre produit, 
     nous proposons de vous crééer vos dossiers techniques 
     afin de vous liberer de cette tache parfois longue et fastidieuse.
       </>
