@@ -1,7 +1,7 @@
 module.exports = {
   title: 'LDTI',
   tagline: '-LDTI-',
-  url: 'https://ldti.fr',
+  url: 'https://www.ldti.fr',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'LDTI', // Usually your GitHub org/user name.
