@@ -1,7 +1,10 @@
 module.exports = {
   title: 'LDTI',
   tagline: '-LDTI-',
-  url: 'https://www.ldti.fr',
+  url: 'https://ldti.fr',
+  RewriteEngine On
+RewriteCond %{HTTP_HOST} ^ldti.fr [NC]
+RewriteRule ^(.*)$ http://www.ldti.fr/$1 [L,R=301]
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'LDTI', // Usually your GitHub org/user name.
