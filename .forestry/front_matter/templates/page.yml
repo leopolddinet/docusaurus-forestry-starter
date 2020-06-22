@@ -12,5 +12,4 @@ fields:
   name: sidebar_label
   label: sidebar_label
 pages:
-- blog/en-cours-de-construction.md
 - docs/amelioration-continue.md
