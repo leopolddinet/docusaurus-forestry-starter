@@ -10,4 +10,4 @@ Nous vous réalisons vos dossiers techniques sur mesure adapté à votre activit
 * Dossiers de plans de détails et d'ensembles.
 * Éclatés techniques (bullage et nomenclature sur les plans).
 * Possibilité de rédiger vos gammes et instructions de montage.
-* Autres prestations sur demande possible.
+* autres prestations sur demande.
