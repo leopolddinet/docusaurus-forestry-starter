@@ -11,3 +11,4 @@ Nous vous développons vos conceptions à partir de votre cahier des charges, de
 * Conception du produit sous le logiciel Solidworks.
 * Dossier de validation de la conception pour une validation du produit avant création du dossier technique.
 * Possibilité de réaliser un prototype rapide pour validation du concept.
+* autres prestations sur demande.
