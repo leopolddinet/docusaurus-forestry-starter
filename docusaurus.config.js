@@ -1,6 +1,8 @@
 module.exports = {
   title: 'LDTI',
-  tagline: '-LDTI-',
+  tagline: 'Après 15 années passées en bureau d’études dans différents secteurs d’activités ( médical, ferroviaire, automobile, nucléaire, agronomie/environnement, amiante, machine spéciale ) et après avoir mis en place l’ISO 9001 intégralement jusqu’à la certification dans une société intégrant tous les corps de métier ( sous-traitant nucléaire), j’ai pu constater qu’il y avait des disfonctionnements dues en grande partie au dossier technique regroupant les données d’entrées de tous les services…
+J’ai décidé de créer mon activité afin de mettre mon expérience au profit du plus grand nombre d’entreprise désirant entrer dans une démarche d’amélioration continue en vue d’un augmentation du nombre de salariés et/ou du chiffre d’affaire.
+',
   url: 'https://ldti.fr',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
