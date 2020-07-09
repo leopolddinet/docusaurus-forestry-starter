@@ -14,7 +14,7 @@ const features = [
       <>
        Nous réalisons à partir de votre cahier des charges les produits qu'il vous faut,
     nous vous apporterons tout au long du projet notre expertise 
-    et une gestion de projets adequates à votre activité.
+    et une gestion de projets adéquates à votre activité.
       </>
     ),
   },
