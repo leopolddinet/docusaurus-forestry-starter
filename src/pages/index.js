@@ -14,7 +14,7 @@ const features = [
       <>
        Nous réalisons à partir de votre cahier des charges les produits qu'il vous faut,
     nous vous apporterons tout au long du projet notre expertise 
-    et une gestion de projet adequate à votre activité.
+    et une gestion de projets adequates à votre activité.
       </>
     ),
   },
@@ -34,7 +34,7 @@ const features = [
     imageUrl: 'img/logo-amelioration-continue.jpg',
     description: (
       <>
-        Nous vous accompagnons tout au long du projet dans une demarche d'amélioration continue, 
+        Nous vous accompagnons tout au long du projet dans une démarche d'amélioration continue, 
     nous vous proposons de vous créer vos trames personnalisées et adaptées à votre besoin.
       </>
     ),
