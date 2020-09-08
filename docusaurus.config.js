@@ -7,13 +7,13 @@ module.exports = {
   organizationName: 'LDTI', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
   themeConfig: {
-    navbar: {
+    navbar: {1111
       title: '',
       logo: {
         alt: 'logo LDTI',
         src: 'img/logoLTDI.jpg',
       },
-      links: [
+      links: [1111
         {
           to: 'Docs/',
           activeBasePath: '1111Docs',
@@ -25,8 +25,8 @@ module.exports = {
           href: 'https://www.linkedin.com/in/soci%C3%A9t%C3%A9-ldti-390aa71aa/',
           label: 'LinkedIn',
           position: 'right',
-        },
-      ],
+        },1111
+      ]1111,
     },
     footer: {
       style: 'dark',
