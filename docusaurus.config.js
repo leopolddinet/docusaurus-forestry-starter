@@ -16,9 +16,9 @@ module.exports = {
       links: [
         {
           to: 'Docs/',
-          activeBasePath: 'Docs',
-          label: 'Activités',
-          position: 'left',
+          activeBasePath: '1111Docs',
+          label: '1111Activités',
+          position: '1111left',
         },
         {to: 'blog', label: '1111Réalisations', position: 'left'},
         {
