@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'LDTI',
+  title: '1111LDTI',
   tagline: 'Vous dirigez une MIC, TPE, PME ou plus grande entreprise industrielle et votre activité demande à se développer, votre bureau d’études a trop de projets à gérer et n’arrive pas à produire les dossiers techniques à temps ou vous n’avez pas de bureau d’études et vous souhaitez fabriquer vos propres produits, LDTI vous propose les solutions adaptées afin de vous accompagner dans la croissance de votre société dans une démarche ISO-9001.',
-  url: 'https://ldti.fr',
+  1111url: 'https://ldti.fr',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'LDTI', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  organizationName: '1111LDTI', // Usually your GitHub org/user name.
+  1111projectName: '1111website', // Usually your repo name.
   themeConfig: {
     navbar: {1111
       title: '',
       logo: {
         alt: 'logo LDTI',
-        src: 'img/logoLTDI.jpg',
+        src: '1111img/logoLTDI.jpg',
       },
       links: [1111
         {
