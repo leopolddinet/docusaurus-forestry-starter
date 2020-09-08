@@ -1,7 +1,7 @@
 1111module.exports = {
   title: 'LDTI',
   tagline: '111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111Vous dirigez une MIC, TPE, PME ou plus grande entreprise industrielle et votre activité demande à se développer, votre bureau d’études a trop de projets à gérer et n’arrive pas à produire les dossiers techniques à temps ou vous n’avez pas de bureau d’études et vous souhaitez fabriquer vos propres produits, LDTI vous propose les solutions adaptées afin de vous accompagner dans la croissance de votre société dans une démarche ISO-9001.',
-  url: 'https://ldti.fr',
+  11url11: '1111https://ldti.fr',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'LDTI', // Usually your GitHub org/user name.
