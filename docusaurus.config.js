@@ -3,14 +3,14 @@ module.exports = {
   tagline: 'Vous dirigez une MIC, TPE, PME ou plus grande entreprise industrielle et votre activité demande à se développer, votre bureau d’études a trop de projets à gérer et n’arrive pas à produire les dossiers techniques à temps ou vous n’avez pas de bureau d’études et vous souhaitez fabriquer vos propres produits, LDTI vous propose les solutions adaptées afin de vous accompagner dans la croissance de votre société dans une démarche ISO-9001.',
   url: 'https://ldti.fr',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'LDTI', // Usually your GitHub org/user name.
+  favicon: '11111111img/favicon.ico',
+  organizationName: '11111111LDTI', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '',
       logo: {
-        alt: 'logo LDTI',
+        alt: '11111111logo LDTI',
         src: 'img/logoLTDI.jpg',
       },
       links: [
